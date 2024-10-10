@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**justhaylz/justhaylz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Hi there! I'm justhaylz, a versatile and results-oriented web developer with a passion for creating seamless, responsive web applications. With expertise in HTML, CSS, PHP, Tailwind CSS, and JavaScript, I love turning complex problems into simple, beautiful, and intuitive designs. My experience spans both frontend and backend development, ensuring comprehensive solutions that are both efficient and secure.
+I'm justhaylz, a versatile and results-oriented web developer with a passion for creating seamless, responsive web applications. With expertise in HTML, CSS, PHP, Tailwind CSS, and JavaScript, I love turning complex problems into simple, beautiful, and intuitive designs. My experience spans both frontend and backend development, ensuring comprehensive solutions that are both efficient and secure.
 
 Having honed my skills at Mission Ready HQ and through impactful projects with organizations like the Cancer Society and NZ Post Group, I bring a unique blend of technical prowess and effective communication to every project. Whether it's integrating APIs, working with databases, or optimizing user experience, I am committed to delivering high-quality results.
 
